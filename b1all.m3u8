@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://u-on.co:2095/live/6660bH9019/090726UnvrS/858.m3u8
+http://het114c.ycn-redirect.com/live/918454578001/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://u-on.co:2095/live/6660bH9019/090726UnvrS/1003.m3u8
+http://het136c.ycn-redirect.com/live/918454578001/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-http://u-on.co:2095/live/6660bH9019/090726UnvrS/16.m3u8
+http://het100a.ycn-redirect.com/live/978480008877005/index.m3u8
